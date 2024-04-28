@@ -50,14 +50,14 @@ main {
 }
 
 
-.card p {
-    max-width: 22.125rem;
+.cardp {
+    width: 22.125rem;
     margin-top: 1rem;
     /* text style */
-    color: var(--text);
+    color: #717FA6;
     text-align: center;
     font-size: 1rem;
-    font-weight: 400;
+    font-weight: 500;
     line-height: 1.625rem;
 }
 
@@ -83,7 +83,6 @@ main {
     display: flex;
     flex-direction: column;
     align-items: start;
-    margin-bottom: 1rem;
 }
 
 .info p{
