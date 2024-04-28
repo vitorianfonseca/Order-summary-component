@@ -30,7 +30,7 @@ main {
 }
 
 .card {
-    max-height: 43.5625rem;
+    height: 43.5625rem;
     max-width: 28.125rem;
     z-index: 1;
     padding: 0rem 1.5rem 2rem;
@@ -138,11 +138,11 @@ button:hover {
     font-size: 0.9375rem;
     font-weight: 900;
     margin-top: 2rem;
+    /* margin-bottom: 1rem; */
 }
 
 .cancel:hover {
     color: #1F2E55;
     font-size: 0.9375rem;
     font-weight: 900;
-    margin-bottom: 3rem;
 }
